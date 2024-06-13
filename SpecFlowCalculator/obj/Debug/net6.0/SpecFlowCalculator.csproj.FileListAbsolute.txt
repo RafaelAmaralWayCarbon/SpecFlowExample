@@ -9,3 +9,4 @@ C:\Projetos\Testes\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFl
 C:\Projetos\Testes\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\refint\SpecFlowCalculator.dll
 C:\Projetos\Testes\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.pdb
 C:\Projetos\Testes\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\ref\SpecFlowCalculator.dll
+C:\Projetos\Testes\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.sourcelink.json

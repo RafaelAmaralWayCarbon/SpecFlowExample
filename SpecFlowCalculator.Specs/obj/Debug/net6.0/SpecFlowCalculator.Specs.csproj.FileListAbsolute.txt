@@ -115,3 +115,4 @@ C:\Projetos\Testes\SpecFlowCalculator\SpecFlowCalculator.Specs\obj\Debug\net6.0\
 C:\Projetos\Testes\SpecFlowCalculator\SpecFlowCalculator.Specs\obj\Debug\net6.0\SpecFlowCalculator.Specs.pdb
 C:\Projetos\Testes\SpecFlowCalculator\SpecFlowCalculator.Specs\obj\Debug\net6.0\SpecFlowCalculator.Specs.genruntimeconfig.cache
 C:\Projetos\Testes\SpecFlowCalculator\SpecFlowCalculator.Specs\obj\Debug\net6.0\ref\SpecFlowCalculator.Specs.dll
+C:\Projetos\Testes\SpecFlowCalculator\SpecFlowCalculator.Specs\obj\Debug\net6.0\SpecFlowCalculator.Specs.sourcelink.json

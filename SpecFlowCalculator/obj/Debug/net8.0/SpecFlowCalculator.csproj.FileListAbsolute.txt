@@ -5,6 +5,7 @@ C:\Projetos\Testes\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net8.0\SpecFl
 C:\Projetos\Testes\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net8.0\SpecFlowCalculator.AssemblyInfoInputs.cache
 C:\Projetos\Testes\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net8.0\SpecFlowCalculator.AssemblyInfo.cs
 C:\Projetos\Testes\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net8.0\SpecFlowCalculator.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net8.0\SpecFlowCalculator.sourcelink.json
 C:\Projetos\Testes\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net8.0\SpecFlowCalculator.dll
 C:\Projetos\Testes\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net8.0\refint\SpecFlowCalculator.dll
 C:\Projetos\Testes\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net8.0\SpecFlowCalculator.pdb
